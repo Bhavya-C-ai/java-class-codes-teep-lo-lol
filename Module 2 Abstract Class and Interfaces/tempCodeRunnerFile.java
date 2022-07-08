@@ -1,0 +1,2 @@
+
+    myObj.myOtherMethod();
